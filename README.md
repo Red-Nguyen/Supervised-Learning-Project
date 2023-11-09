@@ -1,16 +1,13 @@
-# machine_learning_project-supervised-learning
+# Supervised Learning Project: Diabetes Prediction
+### Overview
+This repository hosts a supervised learning project with the objective of predicting diabetes occurrences. Utilizing the "Diabetes" dataset from the National Institute of Diabetes and Digestive and Kidney Diseases, the project applies machine learning techniques to diagnose the presence of diabetes in patients.
 
-## Project Outcomes
-- Supervised Learning: use supervised learning techniques to build a machine learning model that can predict whether a patient has diabetes or not, based on certain diagnostic measurements.The project involves three main parts: exploratory data analysis, preprocessing and feature engineering, and training a machine learning model. 
-### Duration:
-Approximately 3 hours and 20 minutes.
-### Project Description:
-In this projects, you will apply supervised learning techniques to a real-world data set and use data visualization tools to communicate the insights gained from the analysis.
+### Objective
+The aim is to construct a machine learning model employing supervised learning methods to accurately predict diabetes.
 
-The data set for this project is the "Diabetes" dataset from the National Institute of Diabetes and Digestive and Kidney Diseases 
-The project will involve the following tasks:
+### Project Description
+The project encompasses exploratory data analysis, preprocessing, feature engineering, and the training of predictive models. Insights and model performances are elucidated using data visualization tools.
 
--	Exploratory data analysis and pre-processing: We will import and clean the data sets, analyze and visualize the relationships between the different variables, handle missing values and outliers, and perform feature engineering as needed.
--	Supervised learning: We will use the Diabetes dataset to build a machine learning model that can predict whether a patient has diabetes or not, using appropriate evaluation metrics such as accuracy, precision, recall, F1-score, and ROC-AUC. We will select at least two models, including one ensemble model, and compare their performance.
-
-The ultimate goal of the project is to gain insights from the data sets and communicate these insights to stakeholders using appropriate visualizations and metrics to make informed decisions based on the business questions asked."
+### Tasks
+Data Analysis & Pre-processing: Importation and cleaning of the dataset, addressing missing values, outliers, and conducting feature engineering.
+Model Training & Evaluation: Development and assessment of machine learning models using evaluation metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
