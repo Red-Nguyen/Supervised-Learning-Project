@@ -43,5 +43,3 @@ The models were evaluated using a range of metrics including accuracy, precision
 ## Conclusion and Recommendations
 
 The project concludes with a detailed comparison of the Random Forest and XGBoost models, discussing the handling of class imbalance, parameter tuning, and the implications of model performance. Recommendations are provided based on the analysis, with a focus on healthcare applications where recall may be prioritized.
-
-## Repository Structure
